@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
+title_left    : "Re"
+title_right   : "Think" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://soulatcrossroad.github.io # site url
